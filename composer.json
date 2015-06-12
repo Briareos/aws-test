@@ -1,0 +1,14 @@
+{
+    "name": "briareos/aws-test",
+    "require": {
+        "aws/aws-sdk-php": "^3.0",
+        "guzzlehttp/guzzle": "^5.0"
+    },
+    "authors": [
+        {
+            "name": "Milos Colakovic",
+            "email": "milos.colakovic@devana.rs"
+        }
+    ],
+    "minimum-stability": "stable"
+}
